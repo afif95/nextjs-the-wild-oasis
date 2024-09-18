@@ -36,6 +36,7 @@ AUTH_GOOGLE_SECRET=
 configure these settings using NextAuth.js and Google Developer Console
 
 command (dev mode): npm run dev
+
 command (production): npm run prod
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
