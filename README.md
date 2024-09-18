@@ -1,3 +1,6 @@
+# Project Description
+# The Wild Oasis - Hotel Management Application
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -13,6 +16,27 @@ pnpm dev
 # or
 bun dev
 ```
+# Running Locally
+Create a .env.local file in your root directory. Then insert these variables:
+
+SUPABASE_URL=
+
+SUPABASE_KEY=
+
+NEXTAUTH_URL=
+
+NEXTAUTH_SECRET=
+
+AUTH_GOOGLE_ID=
+
+AUTH_GOOGLE_SECRET=
+
+*leak to public in the browser: NEXT_PUBLIC_SOME_VAR=
+
+configure these settings using NextAuth.js and Google Developer Console
+
+command (dev mode): npm run dev
+command (production): npm run prod
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
