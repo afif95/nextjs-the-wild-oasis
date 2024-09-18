@@ -33,7 +33,7 @@ AUTH_GOOGLE_SECRET=
 
 *leak to public in the browser: NEXT_PUBLIC_SOME_VAR=
 
-configure these settings using NextAuth.js and Google Developer Console
+configure these settings using Supabase, NextAuth.js and Google Developer Console
 
 command (dev mode): npm run dev
 
