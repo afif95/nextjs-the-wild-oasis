@@ -3,6 +3,28 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img src="project screenshots/1.png" alt="drawing"/>
+<img src="project screenshots/2.png" alt="drawing"/>
+<img src="project screenshots/3.png" alt="drawing"/>
+<img src="project screenshots/4.png" alt="drawing"/>
+<img src="project screenshots/5.png" alt="drawing"/>
+<img src="project screenshots/6.png" alt="drawing"/>
+<img src="project screenshots/7.png" alt="drawing"/>
+<img src="project screenshots/8.png" alt="drawing"/>
+<img src="project screenshots/9.png" alt="drawing"/>
+<img src="project screenshots/10.png" alt="drawing"/>
+<img src="project screenshots/11.png" alt="drawing"/>
+<img src="project screenshots/12.png" alt="drawing"/>
+<img src="project screenshots/13.png" alt="drawing"/>
+<img src="project screenshots/14.png" alt="drawing"/>
+<img src="project screenshots/15.png" alt="drawing"/>
+<img src="project screenshots/16.png" alt="drawing"/>
+<img src="project screenshots/17.png" alt="drawing"/>
+<img src="project screenshots/18.png" alt="drawing"/>
+<img src="project screenshots/19.png" alt="drawing"/>
+<img src="project screenshots/20.png" alt="drawing"/>
+<img src="project screenshots/21.png" alt="drawing"/>
+
 ## Getting Started
 
 First, run the development server:
