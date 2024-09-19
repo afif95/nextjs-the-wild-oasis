@@ -3,6 +3,24 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Frontend:
+- Framework: React, Next.js (App Router)
+- Styling: Tailwind CSS, responsive design
+
+### Features:
+- Cabin Exploration: Users can browse available cabins, view details, and images.
+- Account Creation: Users can create accounts using Google authentication through NextAuth.js.
+- Booking System: Users can book cabins with an optimistic UI, providing immediate feedback before confirmation.
+
+### Backend:
+- Database: SupaBase
+- Authentication: NextAuth.js with Google Provider
+- Server Actions: Handle server-side logic for cabin availability, booking, and account creation.
+
+In essence, this application will provide a user-friendly interface for exploring and booking cabins at the Wild Oasis hotel, leveraging modern web development technologies and a robust backend for authentication and data management.
+
+
+
 <img src="project screenshots/1.png" alt="drawing"/>
 <img src="project screenshots/2.png" alt="drawing"/>
 <img src="project screenshots/3.png" alt="drawing"/>
